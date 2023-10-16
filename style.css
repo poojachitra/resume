@@ -1,0 +1,42 @@
+h1{
+    
+    font-style: oblique;
+    color: blueviolet;
+}
+h2{
+   color: blue;
+}
+th{
+    color:brown;
+}
+td{
+    color:black;
+}
+section{
+    color: red;
+}
+#projects{
+    font-size: medium;
+    color:violet;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: auto;
+    padding: 5px ;
+    border:2px;
+    background-color: black;
+
+}
+#sk{
+    margin:auto;
+    font-size: medium;
+    padding:5px;
+    border:2px;
+    background-color:aqua ;
+}
+#l{
+    margin:auto;
+    font-size: medium;
+    font-family: italic;
+    color:blue;
+    padding: 5px;
+    background-color: blanchedalmond;
+}
